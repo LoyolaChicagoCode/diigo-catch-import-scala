@@ -33,5 +33,8 @@ object Main {
     
 //    val requestMethod = "POST"
     
+    // TODO figure out API URL for notes
+    // TODO submit API request
+    
   }
 }
